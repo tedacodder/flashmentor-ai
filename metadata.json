@@ -1,0 +1,8 @@
+
+{
+  "name": "FlashMentor AI",
+  "description": "An AI-powered student companion for personalized learning, featuring a tutor chat, automatic quiz generation, and smart flashcard creation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
